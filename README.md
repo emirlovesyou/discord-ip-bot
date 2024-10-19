@@ -1,4 +1,4 @@
-# 🤖 Basit Discord Botu
+# 🤖 Basit İp Çalma Discord Botu
 
 Bu Discord botu, kullanıcının `!bilgi` komutunu kullanarak belirlenen bir URL'yi tarayıcıda açmasına olanak tanır.
 
